@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.thumbnail {
+  border: 1px solid hsl(26, 100%, 55%);
+  cursor: pointer;
+  border-radius: 10px;
+  opacity: 80;
+  overflow: hidden;
+}
+
+.thumbnail2 {
+  border: 1px;
+  border-color: transparent;
+  cursor: pointer;
+}
